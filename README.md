@@ -41,8 +41,14 @@ Conclusion:
 
 Power BI provides a powerful and user-friendly platform for analyzing e-commerce sales data. By following the outlined steps, businesses can gain valuable insights into their sales performance, customer behavior, and market trends, ultimately leading to improved decision-making and business growth.
 
-![4](https://github.com/Savadimihir2003/E-commerce_Sales_Analysis/assets/115718471/9e17a861-62b0-4907-a296-c359617ddceb)
-![3](https://github.com/Savadimihir2003/E-commerce_Sales_Analysis/assets/115718471/c1fbb9cc-c2e2-48c7-a820-06d573d59941)
-![2](https://github.com/Savadimihir2003/E-commerce_Sales_Analysis/assets/115718471/5e5e7095-f0b8-4979-9db8-3621e86cc1b8)
-![1](https://github.com/Savadimihir2003/E-commerce_Sales_Analysis/assets/115718471/21ccc6a0-8f37-41e9-84b2-a4b700637d0b)
+![1](https://github.com/abhinav-6390/E-Commerce-Sales-Analysis/assets/121440978/7677a216-0d03-4b98-ae8f-7f23eb831e01)
+![2](https://github.com/abhinav-6390/E-Commerce-Sales-Analysis/assets/121440978/e0c46106-bbbc-4088-a942-b1668b4d0bf2)
+![3](https://github.com/abhinav-6390/E-Commerce-Sales-Analysis/assets/121440978/05ec1092-ae15-4d22-8fbe-80283eb2aa0c)
+![4](https://github.com/abhinav-6390/E-Commerce-Sales-Analysis/assets/121440978/654a74e7-2015-4f34-94bb-0d201fc44baf)
+
+
+
+
+
+
 
